@@ -46,7 +46,7 @@ ol {
 }
 
 .body {
-  font-family: 'Roboto', sans-serif;
+  font-family: var(--main-font);
 }
 
 .container {
